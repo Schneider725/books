@@ -1,0 +1,21 @@
+.image{
+    width: 300px;
+    height: auto;
+}
+.header{
+    font-size:xx-large;
+    font-stretch: extra-expanded;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.list{
+    text-align: center;
+}
+.info{
+    margin: 0;
+    padding-top: 0%;
+}
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
